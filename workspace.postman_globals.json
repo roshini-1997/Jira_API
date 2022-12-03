@@ -1,0 +1,39 @@
+{
+	"id": "fb0a1073-1c90-4a89-8feb-f6e1ec25e746",
+	"values": [
+		{
+			"key": "appid",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "global_bug_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "global_Task",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "project_name",
+			"value": "API testing",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "global_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-12-03T14:03:14.990Z",
+	"_postman_exported_using": "Postman/10.5.7"
+}
